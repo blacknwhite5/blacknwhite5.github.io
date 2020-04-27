@@ -1,14 +1,14 @@
 title:              Jackdaw's Blog
 email:              blacknwhite5@gmail.com
-description:        A Blog Theme by Start Bootstrap
+description:        기계공학 전공 개발자의 고군분투기
 author:             Jackdaw
 baseurl:            "" # "/startbootstrap-clean-blog-jekyll"
 url:                "https://blacknwhite5.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
+#twitter_username:   SBootstrap
+github_username:    blacknwhite5
+facebook_username:  blacknwhite5
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
