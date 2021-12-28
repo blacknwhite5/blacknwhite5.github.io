@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://blacknwhite5.github.io/sitemap.xml
